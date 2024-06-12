@@ -20,7 +20,8 @@ Welcome to **cmd-crt-notepad**! This tool allows you to create custom Windows co
 To get started with **cmd-crt-notepad**, follow these simple steps:
 
 1. **Download the Files**
-   - Download the necessary files from this repository.
+   - Download `notepad#.py` and `notepad#.bat` from this repository.
+   - Click on `Code` > `Download ZIP`
 
 2. **Save the Files**
    - Save the downloaded files to `C:\Windows\System32`.

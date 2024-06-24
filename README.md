@@ -1,8 +1,8 @@
-# cmd-crt-notepad
+# notepad-sharp
 
 ## Create Windows Commands Directly from This Text Editor
 
-Welcome to **cmd-crt-notepad**! This tool allows you to create custom Windows commands directly from a text editor, streamlining your workflow and enhancing productivity.
+Welcome to **notepad-sharp**! This tool allows you to create custom Windows commands directly from a text editor, streamlining your workflow and enhancing productivity.
 
 ### Table of Contents
 
@@ -13,11 +13,11 @@ Welcome to **cmd-crt-notepad**! This tool allows you to create custom Windows co
 
 ## Introduction
 
-**cmd-crt-notepad** is a utility that lets you create Windows commands effortlessly. By using your preferred programming language (Python, Java, C, etc.), you can customize and extend the functionality of your Windows Command Prompt.
+**notepad-sharp** is a utility that lets you create Windows commands effortlessly. By using your preferred programming language (Python, Java, C, etc.), you can customize and extend the functionality of your Windows Command Prompt.
 
 ## Installation
 
-To get started with **cmd-crt-notepad**, follow these simple steps:
+To get started with **notepad-sharp**, follow these simple steps:
 
 1. **Download the Files**
    - Download `notepad#.py` and `notepad#.bat` from this repository.
@@ -26,7 +26,7 @@ To get started with **cmd-crt-notepad**, follow these simple steps:
 2. **Save the Files**
    - Save the downloaded files to `C:\Windows\System32`.
 
-   That's it! Just a single step and you're ready to start creating custom Windows commands.
+   That's it! Just two simple steps and you're ready to start creating custom Windows commands.
 
    > **Note:** Make sure Python is installed on your device.
 

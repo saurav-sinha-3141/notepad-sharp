@@ -13,7 +13,7 @@ Welcome to **notepad-sharp**! This tool allows you to create custom Windows comm
 
 ## Introduction
 
-**notepad-sharp** is a utility that lets you create Windows commands effortlessly. By using your preferred programming language (Python, Java, C, etc.), you can customize and extend the functionality of your Windows Command Prompt.
+**notepad-sharp** is a utility that lets you create Windows commands effortlessly. Just by using python you can customize and extend the functionality of your Windows Command Prompt.
 
 ## Installation
 
@@ -45,7 +45,7 @@ To get started with **notepad-sharp**, follow these simple steps:
 I welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
+2. Create a new branch `git checkout -b feature/YourFeature`.
+3. Commit your changes `git commit -m 'Add some feature'`.
+4. Push to the branch `git push origin feature/YourFeature`.
 5. Open a Pull Request.
